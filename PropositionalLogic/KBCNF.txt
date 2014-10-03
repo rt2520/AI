@@ -1,0 +1,1 @@
+(~D1Open v ~D2Open v RoomOpen) ^ (Weekend v D2Open) ^ (~Weekend) ^ (D1Open)
